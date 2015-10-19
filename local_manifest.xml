@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="AndroidFire/android_device_xiaomi_hmnote1w" path="device/xiaomi/hmnote1w" remote="github" />
+  <project name="tpruvot/MT6592-KK-KERNEL" path="kernel/xiaomi/hmnote1w" remote="github" />
+  <project name="AndroidFire/android_vendor_xiaomi_hmnote1w" path="device/xiaomi/hmnote1w-common/hmnote1w-common-vendor-blobs.mk" remote="github" />
+ </manifest>
